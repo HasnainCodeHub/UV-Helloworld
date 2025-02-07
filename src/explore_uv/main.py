@@ -3,4 +3,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    print("Pakistan zinda bad")
+    print("Hello From Hasnain Ali")
